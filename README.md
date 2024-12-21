@@ -140,4 +140,3 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Daha fazla bilgi için `L
 ---
 
 Matro Topluluğu'na katılarak daha fazla bilgi ve eğitimlere erişebilirsiniz. İyi çalışmalar! 🎉
-```
